@@ -1,2 +1,15 @@
-# social_media_chat_app_backend
-This is a social media chat app where you can send our messages
+# User's Registration Schema
+
+```
+{
+  "username":"ayushi",
+  "email":"ayu12@gmail.com",
+  "password":"1234"
+}
+
+```
+
+# User's Register API
+
+``` http://localhost:8080/register```
+
